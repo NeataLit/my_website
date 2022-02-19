@@ -1,5 +1,8 @@
 body{
-    /* font-family: 'Roboto Serif', sans-serif; */
-    font-family: "cambria";
-    background-color: #d8e2dc;
+    font-family: 'Roboto Serif', sans-serif;
+    background-color: #f8edeb;
+}
+
+nav{
+    background-color: #d8e2dc; 
 }
