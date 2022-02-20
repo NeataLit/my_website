@@ -1,0 +1,30 @@
+.music{
+    background-color: #189AB4;
+    border-radius: 30px;
+    padding: 30px;
+    margin-left: 50px;
+}
+
+.games{
+    background-color: #189AB4;
+    border-radius: 30px;
+    padding: 30px;
+}
+
+.drawings{
+    background-color: #75E6DA;
+    margin-top: 70px;
+    padding: 30px;
+    border-radius: 50px;
+}
+
+.abc{
+    margin-top: 50px;
+}
+
+.bgc{
+    background-color: #75E6DA;
+    border-radius: 50px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
