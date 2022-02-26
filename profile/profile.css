@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+.abm{
+    background-color: #D4F1F4;
+    border-radius: 15px;
+}
+
+.desc{
+    text-align: justify;
+}
+
+.desc-card{
+    background-color: #D4F1F4;
+    border-radius: 30px;
+    padding: 50px;
+    box-shadow: 0 8px 8px 4px rgba(0, 0, 0, 0.2);
+}
+
+.photo-card{
+    margin-left: -20px;
+}
+
+.neatalit{
+    color: #000000
+}
+
+.inside{
+    color: #6d7c61;
+}
+
